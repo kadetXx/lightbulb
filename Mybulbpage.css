@@ -1,0 +1,47 @@
+
+.heading {
+    text-align: center;
+    font-family: poppins;
+}
+
+.heading h1 {
+    color: blueviolet;
+}
+
+.picture {
+    width: 100vw;
+    text-align: center;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-size: 16px;
+}
+
+.switch {
+    text-align: center;
+    width: 100vw;
+    margin-top: 50px;
+}
+
+.btn {
+    margin-right: 10px;
+    color:#fff;
+    font-family: poppins;
+    background-color: blueviolet;
+    border: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 100px;
+    text-align: center;
+    font-family: poppins;
+    width: 100%;
+    font-size: 14px;
+}
